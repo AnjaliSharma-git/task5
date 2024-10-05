@@ -1,4 +1,4 @@
-#E-Commerce Store
+# E-Commerce Store
 
 This project is a simple ReactJS-based e-commerce store that allows users to browse products, add them to a cart, and manage their cart through a modal interface. The product data is fetched from the Fake Store API, and the application features a responsive design for a user-friendly experience on both desktop and mobile devices.
 
